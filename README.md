@@ -17,6 +17,3 @@ A lightweight RESTful API built using **FastAPI** with:
 - CORS middleware for frontend/backend communication
 
 ---
-
-## 🏗️ Project Structure
-
